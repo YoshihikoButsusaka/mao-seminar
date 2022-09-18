@@ -8,6 +8,9 @@ https://elmas3.github.io/mao-seminar/
 エルマス
 わかば
 
+#ブランチテスト
+博多行きの新幹線の中でテスト
+
 # ディレクトリ構成
 ```
 seminar/
